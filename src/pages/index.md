@@ -4,20 +4,17 @@ title: Nhut Nguyen
 description: Welcome to my website!
 ---
 
-# 🧑‍🚀 Hello, Astronaut!
+# 🧑‍🚀 Hello!
 
-Welcome to the official [Astro](https://astro.build/) blog starter template. This template serves as a lightweight, minimally-styled starting point for anyone looking to build a personal website, blog, or portfolio with Astro.
+My name is Nhut Nguyen. I'm a software engineer and an author living in Copenhagen, Denmark.
 
-This template comes with a few integrations already configured in your [astro.config.mjs](../astro.config.mjs) file. You can customize your setup with [Astro Integrations](https://astro.build/integrations) to add tools like Tailwind, React, or Vue to your project.
+I was born and raised in Ho Chi Minh City, Vietnam. In 2012, I moved to Denmark to pursue a Ph.D. in mathematics at the Technical University of Denmark. 
 
-Here are a few ideas on how to get started with the template:
+After my studies, I moved into the industry in 2016 and worked at various tech companies in Denmark.
 
-- Edit this page in [src/pages/index.md](src/pages/index.md)
-- Edit the site header items in [src/components/Header.astro](src/components/Header.astro)
-- Add your name to the footer in [src/components/Footer.astro](src/components/Footer.astro)
-- Check out the included blog posts in [src/content/blog/](src/content/blog/)
-- Customize the blog post page layout in [src/layouts/BlogPost.astro](src/layouts/BlogPost.astro)
+In this blog, I write about my experiences and lessons learned from my life and work.
 
-Have fun! If you get stuck, remember to [read the docs](https://docs.astro.build/) or [join us on Discord](https://astro.build/chat) to ask questions.
+## Want to learn more about me?
 
-Looking for a blog template with a bit more personality? Check out [astro-blog-template](https://github.com/Charca/astro-blog-template) by [Maxi Ferreira](https://twitter.com/Charca).
+- Follow me on [LinkedIn](https://www.linkedin.com/in/nhutnguyen/).
+- See my works on [GitHub](https://github.com/ntnhut).
