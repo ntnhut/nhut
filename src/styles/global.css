@@ -27,7 +27,7 @@ body {
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
 	font-size: 20px;
-	line-height: 1.7;
+	line-height: 1.4;
 }
 main {
 	width: 720px;
@@ -46,19 +46,19 @@ h6 {
 	line-height: 1.2;
 }
 h1 {
-	font-size: 3.052em;
+	font-size: 2.0em;
 }
 h2 {
-	font-size: 2.441em;
+	font-size: 1.8em;
 }
 h3 {
-	font-size: 1.953em;
+	font-size: 1.6em;
 }
 h4 {
-	font-size: 1.563em;
+	font-size: 1.4em;
 }
 h5 {
-	font-size: 1.25em;
+	font-size: 1.2em;
 }
 strong,
 b {
@@ -92,13 +92,15 @@ img {
 	border-radius: 8px;
 }
 code {
-	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
+	font-size: 0.9em;
+	/* padding: 2px 5px; */
+	/* background-color: rgb(var(--gray-light)); */
 	border-radius: 2px;
 }
 pre {
+	font-size: 0.8em;
 	padding: 1.5em;
-	border-radius: 8px;
+	/* border-radius: 8px; */
 }
 pre > code {
 	all: unset;

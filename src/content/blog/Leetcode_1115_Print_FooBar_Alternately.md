@@ -1,6 +1,6 @@
 ---
-title: 'Leetcode 1115. Print FooBar Alternately'
-description: 'Simple example for semaphore.'
+title: 'How I solve Leetcode 1115. Print FooBar Alternately'
+description: 'Simple example for C++20 semaphore.'
 pubDate: 'July 19 2026'
 ---
 
