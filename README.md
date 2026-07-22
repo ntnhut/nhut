@@ -68,6 +68,6 @@ If the repository name or deployment path changes, update both values in `astro.
 
 ## Content Editing
 
-- Home/about pages can be authored in Markdown under `src/pages/`.
+- Home/CV pages can be authored in Markdown under `src/pages/`.
 - Blog posts live in `src/content/blog/`.
 - Shared page shell and metadata are managed in `src/layouts/` and `src/components/`.
